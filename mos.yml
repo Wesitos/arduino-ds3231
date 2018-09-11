@@ -10,7 +10,6 @@ filesystem:
 includes:
   - include
 
-config_schema:
 libs:
   - origin: https://github.com/mongoose-os-libs/arduino-compat
   - origin: https://github.com/mongoose-os-libs/arduino-wire
